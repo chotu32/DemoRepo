@@ -1,0 +1,5 @@
+utilities\ConfigFile.class
+utilities\Utilities.class
+pageobject\Jquery.class
+testscripts\JqueryTest.class
+utilities\BaseClass.class
